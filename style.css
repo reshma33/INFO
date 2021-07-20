@@ -1,0 +1,25 @@
+
+  .body{
+      display: flex;
+  }
+  .table{
+     
+      text-align: center;
+  }
+  .table .tr{
+    width: 100%;
+  }
+.header{
+  height: 150px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.footer {
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+.footer h5{
+  color: azure;
+  text-align: center;
+}
